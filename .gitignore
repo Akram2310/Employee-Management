@@ -1,0 +1,8 @@
+# Build output
+build/
+dist/
+*.class
+*.jar
+
+# NetBeans local files
+nbproject/private/
